@@ -1,4 +1,5 @@
-# Welcome
+# Welcome to the Juris Open Document Library 👋 🚀
+
 Just jumping in? Start here for links and docs and things.
 
 This Github Org is established as a part of the Juris Project. - https://getjuris.com/open
